@@ -54,7 +54,7 @@ jobs:
           pkgarch: "aarch64_cortex-a53"
           target: "qualcommax"
           subtarget: "ipq60xx"
-          vermagic: "6.12.30 SMP mod_unload aarch64"
+          vermagic: "04e67f65ef5eec3a5ab9be8d1e43be8f4"
       fail-fast: false
 
     steps:
