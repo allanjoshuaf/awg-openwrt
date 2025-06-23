@@ -54,7 +54,7 @@ jobs:
           pkgarch: "aarch64_cortex-a53"
           target: "qualcommax"
           subtarget: "ipq60xx"
-          vermagic: "04e67f65ef5eec3a5ab9be8d1e43be8f-r1"
+          vermagic: "5d9c79f9164ea4f0068cc3c59cdbffd1"
       fail-fast: false
 
     steps:
